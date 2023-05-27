@@ -1,18 +1,31 @@
-# __MJ-u__
+# __MJ-u__ 🫡
 
 
 > ## Introduction
->> Hello, I'm MJ-u. My MBTI is INTP.
+>> MBTI: INTP, Female
 >> 
+>> *Career*: Nothing yet...
+>> 
+>> *Educational Background*: graduated from high school of Korea
 
 > ## Skills
->> *languages*: C, C++, Python, Java
+>> *Languages*: Korean, English (very little Japanese and Chinese)
+>> 
+>> *Computer languages*: C, C++, Python, Java
 
 > ## Education
 >> Sophomore, Majoring Computer Science department at SKKU
+>> 
+>> *Courses MJ-u have taken*
+>> 
+>> *Math Courses*: Calculus 1 and 2, Linear Algebra, Discrete Mathmetics, Probability and Statistics
+>> 
+>> *CS Courses*: Introduction to Computer Engineering, Basic and Practice in Programming, Computer Programming for Engineers, Data Structure, System Program, JAVA Programming Lab, Open Source Software Practice, Logic Circuits, Problem Solving Techniques
 
 > ## Achievements and Certifications
->> 
+>> 漢字能力 6級
 
 > ## Contact
->> alswl1020@g.skku.edu
+>> [Email] : alswl1020@g.skku.edu
+
+>> [Github] : https://github.com/MJ-u
