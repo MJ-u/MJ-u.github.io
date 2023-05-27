@@ -14,9 +14,9 @@
 >> *Computer languages*: C, C++, Python, Java
 
 > ## Education
->> Sophomore, Majoring Computer Science department at SKKU
+>> **Sophomore, Majoring Computer Science department at SKKU**
 >> 
->> *Courses MJ-u have taken*
+>> <u>Courses MJ-u have taken</u>
 >> 
 >> *Math Courses*: Calculus 1 and 2, Linear Algebra, Discrete Mathmetics, Probability and Statistics
 >> 
