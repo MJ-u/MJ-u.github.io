@@ -23,7 +23,7 @@
 >> *CS Courses*: Introduction to Computer Engineering, Basic and Practice in Programming, Computer Programming for Engineers, Data Structure, System Program, JAVA Programming Lab, Open Source Software Practice, Logic Circuits, Problem Solving Techniques
 
 > ## Achievements and Certifications
->> 漢字能力 6級
+>> *Certification*: 漢字能力 6級
 
 > ## Contact
 >> [Email] : alswl1020@g.skku.edu
